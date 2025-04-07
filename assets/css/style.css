@@ -410,6 +410,10 @@ body {
   max-width: 100%;
   height: auto;
 }
+.img-res_logo { 
+  max-width: 100%;
+  height: 50px;
+}
 .hero {
   color: #fff;
   z-index: 1;
